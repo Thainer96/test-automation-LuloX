@@ -50,7 +50,7 @@ API Test
 1.  Clonar el repositorio:
 
     ```bash
-    git clone https://github.com/Thainer96/test-automation-siigo.git
+    git clone https://github.com/Thainer96/test-automation-LuloX
     ```
 
 2.  Navegar al directorio del proyecto:
